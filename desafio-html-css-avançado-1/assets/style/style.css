@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 45px;
+}
+
+.logo a{
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+
+.menu a {
+    margin-left: 30px;
+    padding: 11px 6px;
+}
+
+.menu a.signup {
+    margin-left: 30px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #5bc241;
+    color: white;
+}
+
+.menu a:hover {
+    color: white;
+    background-color: #5bc241;
+    transition: 0.4s;
+}
