@@ -3,7 +3,7 @@ Repositório criado para realização dos desafios do módulo CSS Avançado do T
 
 Repositório criado para realização dos desafios do módulo **CSS Avançado** do **Treinamento DevQuest** ministrado pelos Gêmeos e toda sua equipe da **[Dev em Dobro](https://www.instagram.com/devemdobro/)**.
 
-Os repositório possui 2 desafios.
+O repositório possui 2 desafios.
 
 1. O primeiro desafio consiste na criação de uma página responsiva da empresa ficticia **thebank** utilizando **CSS Flexbox**.
 
